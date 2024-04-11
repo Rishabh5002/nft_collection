@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethers": "^6.11.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.2"
+  }
+}
